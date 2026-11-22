@@ -36,9 +36,14 @@ A security platform that makes web browsing safer by running risky sites in isol
 | 🎣 **Threat analysis** | Suspicious URL and phishing detection, ClamAV scanning, AI-assisted analysis |
 | 📈 **Monitoring** | Session management and risk monitoring |
 
-**Stack:** React · Node.js · Hono · Python · Flask · Docker · PostgreSQL · noVNC · ClamAV
+**Stack:** React · TypeScript · Node.js · Express · Python · Flask · TensorFlow · Docker · PostgreSQL · noVNC · ClamAV
 
 > Graduation project at An-Najah National University, supervised by Dr. Amjad Hawash. Accepted for exhibition at **TEDI–Najah EXPO**.
+
+<p>
+  <a href="https://github.com/omarqudu/safebrowse-ai"><img src="https://img.shields.io/badge/Project-Showcase-181717?style=for-the-badge&logo=github" alt="Project showcase"></a>
+  <a href="https://safebrowse-ai.com"><img src="https://img.shields.io/badge/Live-safebrowse--ai.com-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site"></a>
+</p>
 
 ---
 
